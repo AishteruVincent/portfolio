@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Simple webpages in NextJS',
-    description: "Planning to create a personal portfolio using NextJS soon.",
+    description: "Simple webpages in NextJS with routings.",
     image: '/images/4.png',
     tags: ['React', 'NextJS'],
     source: 'https://google.com',
