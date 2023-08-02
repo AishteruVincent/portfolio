@@ -31,7 +31,7 @@ export const projects = [
     description: "Simple quiz game using Vanilla Javascript",
     image: '/images/4.png',
     tags: ['Javascript', 'HTML', 'CSS'],
-    source: '#',
+    source: 'https://github.com/AishteruVincent/Quiz-Game',
     visit: '#',
     id: 3,
   },
