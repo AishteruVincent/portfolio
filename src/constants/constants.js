@@ -27,12 +27,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Simple webpages in NextJS',
-    description: "Simple webpages in NextJS with routings.",
-    image: '/images/4.png',
-    tags: ['React', 'NextJS'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'Android Programming using Eclipse IDE',
+    description: "Simple profile page using Eclipse IDE",
+    image: '/images/4.jpg',
+    tags: ['Java', 'Android'],
+    source: '#',
+    visit: '#',
     id: 3,
   },
 ];
