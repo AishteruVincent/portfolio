@@ -6,8 +6,8 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 const data = [
   { number: 20, text: 'Online Certifications'},
   { number: 1829, text: 'Posts in a forum as a contributor', },
-  { number: 5467, text: 'Watched anime episodes', },
-  { number: 5000, text: 'Chapters of manga read', }
+ // { number: 5467, text: 'Watched anime episodes', },
+ // { number: 5000, text: 'Chapters of manga read', }
 ];
 
 const Acomplishments = () => (
