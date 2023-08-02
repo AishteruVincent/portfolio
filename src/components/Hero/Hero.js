@@ -16,7 +16,7 @@ company and to excel in all of the company's activities while
 also continuing to learn and grow my knowledge, abilities,
 and experience.
     </SectionText>
-    <Button onClick={() => window.location = "https://google.com"}>Learn More</Button>
+    <Button onClick={() => window.location = "https://github.com/AishteruVincent"}>Learn More</Button>
   </LeftSection>
 
   </Section>
