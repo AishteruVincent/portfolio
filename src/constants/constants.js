@@ -4,7 +4,7 @@ export const projects = [
     description: "A online website and app where you can order food. It comes with their own delivery man application for faster pick up of orders and delivery time.",
       image: '/images/1.png',
       tags: ['Dart', 'Laravel', 'Javascript', 'Flutter'],
-    source: 'https://github.com/AishteruVincent/testbun.git',
+    source: 'https://github.com/AishteruVincent/bunappetite_mobile',
     visit: 'https://bunappetite.com',
     id: 0,
   },
