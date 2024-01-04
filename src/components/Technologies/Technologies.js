@@ -23,7 +23,7 @@ const Technologies = () =>  (
         <DiPhp size="3rem"/>
         <ListContainer>
           <ListTitle>Back-end</ListTitle>
-          <ListParagraph>Experience with <br/> PHP, MySQL and Laravel</ListParagraph>
+          <ListParagraph>Knowledgable with <br/>MVC Framework (PHP/MySQL/Laravel)</ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
@@ -43,7 +43,7 @@ const Technologies = () =>  (
       <ListItem>
         <DiJava size="3rem"/>
         <ListContainer>
-          <ListTitle>Front-end</ListTitle>
+          <ListTitle>Mobile (Java)</ListTitle>
           <ListParagraph>Experience with <br/> Java</ListParagraph>
         </ListContainer>
       </ListItem>
