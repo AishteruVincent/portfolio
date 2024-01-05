@@ -30,7 +30,7 @@ const Technologies = () =>  (
         <DiWindows size="3rem"/>
         <ListContainer>
           <ListTitle>Operating Systems</ListTitle>
-          <ListParagraph>Experience with <br/> Windows Server 2003, 2008</ListParagraph>
+          <ListParagraph>Experience with <br/> Windows Server 2003, 2008 and Linux Mint</ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
