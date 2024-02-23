@@ -51,7 +51,7 @@ const Technologies = () =>  (
         <DiGithub size="3rem"/>
         <ListContainer>
           <ListTitle>Repository</ListTitle>
-          <ListParagraph>Experience with <br/> GitHub</ListParagraph>
+          <ListParagraph>Experience with <br/> Source Tree and GitHub</ListParagraph>
         </ListContainer>
       </ListItem>
     </List>
