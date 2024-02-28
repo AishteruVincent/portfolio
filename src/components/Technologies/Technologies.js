@@ -16,7 +16,7 @@ const Technologies = () =>  (
         <DiReact size="3rem"/>
         <ListContainer>
           <ListTitle>Front-end</ListTitle>
-          <ListParagraph>Experience with <br/> React.js and Next.js</ListParagraph>
+          <ListParagraph>Experience with <br/> Figma, React.js and Next.js</ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
